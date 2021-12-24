@@ -8,8 +8,9 @@ In this Github Repository, we create a Spring MVC web application for Employee M
 
 #### Architecture
 <img src="diagram.png" alt="diagram" height="300" width="300"/>
-#### Features 
+<br>
 
+#### Features 
 - Configure MySQL Database
 - Implement End-to-End List Employee Feature
 - Implement End-to-End Add Employee Feature
