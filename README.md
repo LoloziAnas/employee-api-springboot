@@ -6,6 +6,8 @@ In this Github Repository, we create a Spring MVC web application for Employee M
 - Update an employee
 - Delete an employee
 
+#### Architecture
+<img src="diagram.png" alt="diagram"/>
 #### Features 
 
 - Configure MySQL Database
