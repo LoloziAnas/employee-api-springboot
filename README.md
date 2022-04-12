@@ -1,6 +1,6 @@
 ### Employees Management System
 
-In this Github Repository, we create a Spring MVC web application for Employee Management System with the following CRUD operations:
+In this Github Repository, we create a Spring web application for Employee Management System with the following CRUD operations:
 - Get all the employees
 - Add a new employee
 - Update an employee
